@@ -20,7 +20,7 @@
 @media (min-width: 812px){
     
     .background {
-        background-image: url("../assets/image/kitten-sunnyday.png");
+        background-image: url("../assets/image/sunny.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         height: auto;
@@ -40,7 +40,7 @@
 }
 
 
-@media (min-width: 640px) and (max-width: 812px){
+@media (min-width: 540px) and (max-width: 812px){
 
     .kitty {
         background-image: url("../assets/image/kitten-large.png");
@@ -53,7 +53,7 @@
     }
 }
 
-@media (min-width: 315px) and (max-width: 640px){
+@media (min-width: 315px) and (max-width: 540px){
     
     .background {
         background-image: url("../assets/image/night.jpg");
